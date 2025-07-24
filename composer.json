@@ -1,0 +1,9 @@
+{
+  "name": "typo3/guide-step-by-step",
+  "type": "typo3-cms-documentation",
+  "description": "Step-by-Step Guides for TYPO3",
+  "license": "CC-BY-4.0",
+  "require": {
+    "typo3/cms-core": "^13.4"
+  }
+}
