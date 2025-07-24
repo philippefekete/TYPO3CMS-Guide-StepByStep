@@ -8,8 +8,9 @@
         automatic-menu="true"
 >
 	<project
-			title="Markdown Documentation Example"
+			title="Step-by-Step Guides for TYPO3"
 			version="local"
+			copyright="since 2025 by the TYPO3 contributors"
 	/>
 	<extension
 			class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
