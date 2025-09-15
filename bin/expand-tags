@@ -61,7 +61,7 @@ foreach (json_decode(file_get_contents(SEARCH_PATH . 'files.json'), true) as $fi
             $expandedTagLine .= ' **Author:**';
 
             foreach ($authors as $author) {
-                $expandedTagLine .= ' [@' . $author . '](https://my.typo3.org/u/' . $author . ')';
+                $expandedTagLine .= ' [@' . $author . '](https://my.typo3.org/u/' . rawurlencode($author) . ')';
             }
         }
 
