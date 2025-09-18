@@ -1,6 +1,6 @@
 # Contributing a Step-by-Step Guide Using Your Browser and GitHub
 
-<!-- #Beginner @mathias -->
+<!-- #Beginner @mabolek -->
 
 It's easy to add a new guide to the TYPO3 Step-by-Step Guides. All of the guides are written in plain text using simple formatting instructions called Markdown. You can add a new guide using only your web browser and the tools available on the GitHub website, where the guide files are stored.
 
