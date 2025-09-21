@@ -38,6 +38,8 @@ $output .= 'This is a list of all the published and unpublished Step-by-Step gui
 $output .= '* [Published Guides](#published-guides)' . PHP_EOL;
 $output .= '* [Missing Guides](#missing-guides)' . PHP_EOL;
 
+$output .= PHP_EOL;
+
 $output .= '## Published Guides' . PHP_EOL . PHP_EOL;
 
 foreach ($guidesByParentFolder as $parentFolder => $guides) {
