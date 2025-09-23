@@ -55,3 +55,4 @@ Now that you have your Slack account up and running, you might like to:
 ## Resources
 
 * [Slack help center](https://slack.com/help/categories/360000049043)
+* [Download the Slack app](https://slack.com/downloads)
