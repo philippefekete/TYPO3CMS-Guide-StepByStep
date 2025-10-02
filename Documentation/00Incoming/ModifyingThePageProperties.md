@@ -6,7 +6,13 @@ Modifying page properties in TYPO3 enables you to control how each page of your 
 
 ## Learning objective
 
-In this step-by-step guide you will learn how to access, edit, and manage page properties in TYPO3 to control page titles, visibility, URLs, metadata, access permissions, and other key settings that define how your pages behave and appear.
+In this step-by-step guide you will learn how to access, edit, and manage the following page properties in TYPO3 :
+
+* Page Title
+* Title for search engines
+* Keywords for Meta data
+
+ The same steps will apply if you need to modify other page properties.
 
 ## Prerequisites
 
@@ -27,66 +33,40 @@ In this step-by-step guide you will learn how to access, edit, and manage page p
 
 Watch this video to follow along with the steps below.
 
-## {Task name}
+## Modify a page properties
 
 1. In the backend, open the **Page** module from the left-hand menu.
 
-   ![TYPO3 sidebar menu displays four options: Page (highlighted), View, List, and Forms, each with corresponding icons.](Images/CreateAPageWithDragAndDrop/PageModule.png)
+   ![TYPO3 sidebar menu displays four options: Page (highlighted), View, List, and Forms, each with corresponding icons.](Images/ModifyingThePageProperties/PageModule.png)
 
->  **Scope check time**
->
-> Don't start writing until you have a clear scope.
->
-> If you're unsure about the goal, the audience, or the prerequisites — go back and fix it now. Writing the task section without a solid scope will lead to frustration when you’re deep
-> in the details.
+2. Click on the icon of the page you want to modify.
 
-{Optional explanatory text}
+   ![TYPO3 page menu display the option to Edit the properties.](Images/ModifyingThePageProperties/PageMenu.png)
 
-1. {Write the first step. Start with a verb.}
-   {Optional: Code sample or screenshot that helps the learner complete this step.}
-   {Optional: Expected outcome.}
-2. {Write the next step. Start with a verb.}
+3. In the General Tab, modify the field *Page title*.
+   
+   ![TYPO3 page properties provide a field to modify the Page title.](Images/ModifyingThePageProperties/PagePropertiesPageTitle.png)
 
-## {Task name}
+4. In the SEO Tab, modify the field *Title for search engines*.
+   
+   ![TYPO3 page properties provide a field to modify the Title for search engines.](Images/ModifyingThePageProperties/PagePropertiesPageTitleForSearchEngine.png)
 
-{Optional explanatory text}
+5. In the Metadata Tab, modify the field *Keywords*.
+   
+   ![TYPO3 page properties provide a field to modify the Metadate Keywords.](Images/ModifyingThePageProperties/PagePropertiesMetadataKeywords.png)
 
-1. {Write the first step. Start with a verb.}
-   {Optional: Code sample or screenshot that helps the learner complete this step.}
-   {Optional: Expected outcome.}
-2. {Write the next step. Start with a verb.}
-
-## {Task name}
-
-{Optional explanatory text}
-
-1. {Write the first step. Start with a verb.}
-   {Optional: Code sample or screenshot that helps the learner complete this step.}
-   {Optional: Expected outcome.}
-2. {Write the next step. Start with a verb.}
-
-{For Project guides, use this section to link to existing step-by-step guides}
+6. Save your modifications.
 
 ## Summary
 
-{State the outcome of the step-by-step guide to recap what the learner has achieved.}
-
-Congratulations! You now have {outcome}.
+You updated the properties of a TYPO3 page by accessing its settings and modifying key fields such as the page title, SEO title, and metadata keywords. This allows you to improve how the page is displayed to users, how it appears in search results, and how it fits into the overall structure and organization of your website.
 
 ## Next steps
 
-{List links to tasks that the learner could do next.}:
+Now that you have modifying the page properties, you might like to:
 
-Now that you have {achieved goal}, you might like to:
-
-* Task 1
-* Task 2
-* Task 3…
+* [Add content to your page](https://docs.typo3.org/permalink/t3editors:content-creating)
 
 ## Resources
 
-{**Optional**. List links to related material.}
-
-* Resource 1
-* Resource 2
-* Resource 3…
+* [Page properties](https://docs.typo3.org/permalink/t3editors:pages-properties)
