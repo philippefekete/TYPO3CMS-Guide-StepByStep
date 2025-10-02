@@ -29,9 +29,10 @@ In this step-by-step guide you will learn how to access, edit, and manage the fo
 
 ## Watch the video
 
-{**Optional**. If available, embed the YouTube video version of this tutorial from the TYPO3 official channel.}
-
 Watch this video to follow along with the steps below.
+
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=AS9PhYqVtns" target="_blank"><img src="https://img.youtube.com/vi/AS9PhYqVtns/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Modify a page properties
 
