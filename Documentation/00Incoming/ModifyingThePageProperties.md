@@ -60,7 +60,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Summary
 
-You updated the properties of a TYPO3 page by accessing its settings and modifying key fields such as the page title, SEO title, and metadata keywords. This allows you to improve how the page is displayed to users, how it appears in search results, and how it fits into the overall structure and organization of your website.
+You updated the properties of a TYPO3 page by accessing its settings and modifying key fields such as the page title, SEO title, and metadata keywords.
 
 ## Next steps
 
