@@ -1,36 +1,25 @@
-# TYPO3 Step-By-Step Guide Template
+# Modifying the page properties
 
-**[Open this template file in GitHub](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-StepByStep/blob/contrib/Documentation/90Contribute/10Template/Index.md)**
-
-*This template includes writing instructions {in curly brackets} and boilerplate text that you can customize with your own text. The [step-by-step Contributor Guide](../20ContributorGuide/Index.md) explains each section in detail, and includes example text for each section. Search the [Guide Registry](../../80GuidesRegistry/Index.md) before you start - your guide might already exist!*
-
-——— *Remove contents above and including this line when writing* ———
-
-# Title
-
-{The template includes an HTML comment with different tags for categorization (look in the source code). Include the ones you think fits and feel free to add new ones. A tag like #TYPO3v13 indicates that the step-by-step guide has been tested in TYPO3 v13. To credit yourself as author, use "@" followed by your my.typo3.org username (e.g. "@username").}
 <!-- #TYPO3v00 #Beginner #Intermediary #Advanced #ContentElements #Frontend #Backend #Templating #Server #Editing #Configuration @username -->
 
-{Provide a conceptual overview.}
-
-{Feature} enables you to {address pain point}. {Task you are going to learn} helps you {achieve goal}.
+Modifying page properties in TYPO3 enables you to control how each page of your site behaves, appears, and is structured within the overall site hierarchy. From basic settings like titles, visibility, and URL segments to more advanced options such as access restrictions, metadata, and caching behavior, page properties give you fine-grained control over both the frontend presentation and backend organization of your content.
 
 ## Learning objective
 
-In this step-by-step guide you will {describe what the learner will accomplish}.
+In this step-by-step guide you will learn how to access, edit, and manage page properties in TYPO3 to control page titles, visibility, URLs, metadata, access permissions, and other key settings that define how your pages behave and appear.
 
 ## Prerequisites
 
 ### Tools and technology
 
-* {Hardware specifications}
-* {Software installed}
-* {Environments}
+* A computer with a local TYPO3 installation
+* Access to the TYPO3 backend (editor or admin account)
+* A web browser
 
 ### Knowledge and skills
 
-* {Conceptual knowledge}
-* {Prior learning}
+* You know how to log in into the TYPO3 backend
+* You know how to open the **Page** module
 
 ## Watch the video
 
@@ -39,6 +28,10 @@ In this step-by-step guide you will {describe what the learner will accomplish}.
 Watch this video to follow along with the steps below.
 
 ## {Task name}
+
+1. In the backend, open the **Page** module from the left-hand menu.
+
+   ![TYPO3 sidebar menu displays four options: Page (highlighted), View, List, and Forms, each with corresponding icons.](Images/CreateAPageWithDragAndDrop/PageModule.png)
 
 >  **Scope check time**
 >
