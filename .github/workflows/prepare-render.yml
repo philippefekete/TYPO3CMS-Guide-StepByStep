@@ -17,10 +17,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: contrib
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@accd6127cb78bee3e8082180cb391013d204ef9f
+      - name: Install PHP
+        uses: TYPO3-Documentation/.github/actions/setup-php@main
         with:
           php-version: '8.3'
+          php-extensions: ''
 
       - name: Remove 00Incoming folder
         run: rm -rf Documentation/00Incoming
