@@ -4,9 +4,6 @@
 
 Slack is an instant messaging and team collaboration tool. It is our main channel for communication in the TYPO3 community. This guide explains how to get access to TYPO3’s Slack workspace through your new or existing my.typo3.org user profile.
 
-> [!WARNING]
-> Invitations to TYPO3 Slack are currently unavailable. Work on resolving the issue is in progress, but there is no definite ETA. We apologize for the inconvenience. Please return to this guide later.
-
 ## Learning objective
 
 In this step-by-step guide you will sign up for a TYPO3 Slack account.
